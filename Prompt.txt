@@ -1,0 +1,1 @@
+Construct a binary tree of lists, e.g. each node contains its own list of contents. Data is constructed in pairs of chars, ex: ( A, E)   the character A would be in the node A, but character E is added to the list inside of A.  Create a driver that creates data pairs, populates the structure, and then displays the contents. (A depth first search is recommended).

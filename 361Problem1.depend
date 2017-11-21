@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1462025451 source:/home/thor/Downloads/361/adv361Final/PROBLEM1/361Problem1/tree.cpp
+	"tree.h"
+
+1462025997 source:/home/thor/Downloads/361/adv361Final/PROBLEM1/361Problem1/main.cpp
+	"tree.h"
+
+1462026878 /home/thor/Downloads/361/adv361Final/PROBLEM1/361Problem1/tree.h
+	<iostream>
+	<iostream>
+	<list>
+	<ctime>
+	<cstddef>
+	<random>
+
+1462068672 source:d:\problem1\361problem1\main.cpp
+	"tree.h"
+
+1462067628 d:\problem1\361problem1\tree.h
+	<iostream>
+	<list>
+	<ctime>
+	<cstddef>
+	<stdlib.h>
+	<vector>
+	<fstream>
+
+1462039350 source:d:\problem1\361problem1\tree.cpp
+	"tree.h"
+
+1462068778 source:c:\users\bmckee\desktop\361bmckee(00975338)\361problem1\main.cpp
+	"tree.h"
+
+1462070175 c:\users\bmckee\desktop\361bmckee(00975338)\361problem1\tree.h
+	<iostream>
+	<list>
+	<ctime>
+	<cstddef>
+	<stdlib.h>
+	<vector>
+	<fstream>
+
